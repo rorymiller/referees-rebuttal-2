@@ -1,12 +1,6 @@
-# Rebuttal Draft 1:
+# Rebuttal Draft 2:
 
-Saved RM 2237hrs 31/5/18
-
-# TODO
-
--   John pickering comments
-
--   Cost of the assay - ?needed
+Saved RM 1238 15 June 18
 
 # Rebuttal number 1
 
@@ -44,48 +38,42 @@ treatment and preventing unnecessary investigations and transfers.
 The AACB recommend a 6-8 hour repeat test. This recommendation is made
 without considering the use of the assay in conjunction with an
 objective risk assessment (e.g. EDACS) and a normal ECG. This is how
-modern accelerated chest pain pathways use biomarkers. When a POC Tn is
-incorporated into an accelerated chest pain pathway, a 2-hour repeat
-point-of-care sample has been shown to be safe (even when using a less
-sensitive clinical/objective scoring system(modified TIMI score) than
-the EDACS scoring system we propose).\[
-\@than2hDiagnosticProtocol2011;\@flawsExternalValidationEmergency2016;
-\@rocheReviewArticleDiagnostic2016;
-\@thanDevelopmentValidationEmergency2014\] Contemporary point-of-care
-troponin assays (with similar performance to the Abbott iSTAT) have also
-been shown to compare favourably when compared to laboratory
-high-sensitivity assays in nearly 1000 patients in an urban
-setting.\[\@aldousComparisonNewPointofcare2014\]
+modern accelerated chest pain pathways use biomarkers. When a
+point--of-care troponin is incorporated into an accelerated chest pain
+pathway, a 2-hour repeat point-of-care sample has been shown to be safe
+(even when using a less sensitive clinical/objective scoring system
+(modified TIMI score) than the EDACS scoring system we propose).(1--4)
+Contemporary point-of-care troponin assays (with similar performance to
+the Abbott iSTAT) have also been shown to compare favourably when
+compared to laboratory high-sensitivity assays in nearly 1000 patients
+in an urban setting.(5)
 
 > \" I also wonder about the power of the study to answer the question
 > primarily about safety , with 95% intervals between 0.25 and 2.56%
 > assuming a MACE rate of 1% in 400 patients. Will the numbers be
 > sufficient to answer the question ?\"
 
-The power calculations have been performed by Professor John Pickering
+The power calculations have been performed by A/Professor John Pickering
 and are based on data observed from an urban ED cohort.
 
 It is generally accepted that a pathway should have a true 'miss rate'
-of 1% or less.\[\@thanWhatAcceptableRisk2013\] This is also what has
-been observed based on the current performance of the current pathway
-(utilising a high-sensitivity troponin assay in an urban ED) in 2000
-patients, where \~40% are identified as low-risk. The calculations are
-based on a 1-tailed test. The null hypothesis is that the true
-difference is \<2.5% with an alpha of 0.05 and power of 80%.
+of 1% or less.(6) This is also what has been observed based on the
+current performance of the current pathway (utilising a high-sensitivity
+troponin assay in an urban ED) in 2000 patients, where \~40% are
+identified as low-risk. The calculations are based on a 1-tailed test.
+The null hypothesis is that the true difference is \<2.5% with an alpha
+of 0.05 and power of 80%.
 
 400 low-risk patients is therefore sufficient to test this null
 hypothesis. The true rate could be less, as seen with the pilot study
 where there are 0 MACE in 118 patients.
 
-These numbers are typical for this kind of study. The studies which lead
-to the adoption of ADPs throughout NZ had similar of fewer low-risk
+These numbers are typical for this kind of study. The studies which led
+to the adoption of ADPs throughout NZ had similar or fewer low-risk
 patients - ASPECT, the prospective observational validation study of a
 2h pathway had 352 low-risk, the ADAPT study 392 and the the two RCTs
-for ADAPT and EDACS many fewer.\[\@stopyraChestPainRisk2016;
-\@than2hDiagnosticProtocol2011;
-\@thanDevelopmentValidationEmergency2014;
-\@thanEffectivenessEDACSADAPT2016\] Similarly the studies which led to
-the ESC 0/1h guidelines had similar or fewer low-risk patients.
+for ADAPT and EDACS many fewer.(1,4,7,8) Similarly, the studies which
+led to the ESC 0/1h guidelines had similar or fewer low-risk patients.
 
 Further, these numbers have been presented to the Cardiac Society and
 they have agreed that these numbers will be sufficient for them to adopt
@@ -102,7 +90,7 @@ the pathway as a national strategy, should the MACE rate be \<1%.
 > majority of the patients in the study are exposed to a POC test that
 > has not been as fully validated."
 
-Two referees are unclear about which of the iStat troponin assays
+Two referees were unclear about which of the iStat troponin assays
 clinicians will use in this study.
 
 Currently there is only one registered (on market) iStat troponin I
@@ -127,14 +115,14 @@ assay having greatly improved precision at low values.
 It is this improvement in precision that allows accurate reporting of
 troponin results at values in the range 5 to 80 ug/L. As a consequence
 we expect that the new assay will have better performance in identifying
-low risk patients, while also improving the detection of (otherwise
+low-risk patients, while also improving the detection of (otherwise
 missed) NSTEMI cases.
 
 In this study we will collect samples that will be stored and used to
 further validate the new assay. If a sample comparison, and the usual
 other laboratory evaluations, confirms acceptable analytical performance
 for the new assay AND if the assay is available and registered for use
-in New Zealand consideration will be made to switching to the improved
+in New Zealand, consideration will be made to switching to the improved
 assay in the clinics.
 
 Before the newer higher sensitive point-of-care assay is used in a
@@ -148,14 +136,13 @@ There is no currently recognised pathway available for the use of
 point-of-care troponin in rural settings (i.e. current use of
 point-of-care troponin has not been validated). Many rural hospitals are
 still using the manufacturer's cut-off of 0.08 ug/L, which has been
-shown to miss NSTEMI.\[\@schneiderImprovedSensitivityPoint2013;
-\@simpsonRecommendationsUsePointofCare2016\] The pathway proposed in
-this trial, will lower the cut-off improving sensitivity compared to the
-"standard of care".
+shown to miss NSTEMI.(9,10) The pathway proposed in this trial, will
+lower the cut-off improving sensitivity compared to the "standard of
+care".
 
 ## Appropriateness of the applicant's expertise to meet the requirements of the proposed research (if known)
 
-The lead investigators inexperience is indeed countered by the vast
+The lead investigator's inexperience is indeed countered by the vast
 experience of the team.
 
 ## Comments on the budget or the relevant matters
@@ -176,18 +163,17 @@ this project in rural and remote New Zealand
 > study, with a cut-off of 0.04 ug/L \[together with EDACS and ECG\] for
 > assignment of low-risk."
 
-The pilot study the Abbott i-STAT device in primary care study sites.
-This is the same assay that will be used in this study.
+The pilot study used the Abbott i-STAT device in all participating
+primary care study sites. This is the same assay that will be used in
+this study.
 
-Earlier studies performed by members of this group used different, but
-equivalent, POC troponin assays.\[\@aldousComparisonNewPointofcare2014;
-\@than2hDiagnosticProtocol2011\]
+Earlier studies performed by members of this group used different POC
+troponin assays.(1,5)
 
 The cut off of 0.04 ug/L is lower than the manufacturer's recommendation
 (99th centile) of 0.08 ug/L. Lowering the cutoff has shown to improve
 the sensitivity of the assay without compromising specificity too
-much.\[\@schneiderImprovedSensitivityPoint2013\] Lowering the cut-off is
-endorsed by the AACB.\[\@simpsonRecommendationsUsePointofCare2016\]
+much.(9) Lowering the cut-off is endorsed by the AACB.(10)
 
 > "The analyses will take place on frozen plasma rather than fresh whole
 > blood as would be the intention if/when the newer device is used
@@ -203,8 +189,9 @@ staff for use in real world clinical conditions. There will be adequate
 training provided by Abbott prior to use, of the new assay, in 'the
 field'.
 
-It is likely that the release of this assay will be delayed until at
-least quarter 3 of 2019.
+However, we note that it is likely that the release of this assay will
+be delayed until at least quarter 3 of 2019, after the recruitment of
+all patients.
 
 ## Appropriateness of the applicant's expertise to meet the requirements of the proposed research (if known)
 
@@ -225,10 +212,9 @@ Again, we would like to thank the reviewer for their comments.
 > "The rationale is a little unclear"
 
 We are sorry this wasn't clear in our proposal. We are attempting to
-establish irrefutable evidence that accelerated chest pain pathways that
-use point-of-care troponin in rural settings are as safe as those
-pathways used by urban emergency departments that use high-sensitivity
-laboratory assays.
+establish that accelerated chest pain pathways that use point-of-care
+troponin in rural settings are as safe as those pathways used by urban
+emergency departments that use high-sensitivity laboratory assays.
 
 As it stands, although the pilot data are promising, there are
 insufficient numbers to adequately assess the safety of the pathway.
@@ -249,8 +235,7 @@ patients in this study.
 The assay is less precise and less sensitive than laboratory based
 high-sensitivity troponin assays. When point-of-care assays are combined
 with an objective clinical score and an ECG they have been shown to be
-as sensitive.\[\@aldousComparisonNewPointofcare2014;
-\@than2hDiagnosticProtocol2011\]
+as sensitive.(1,5)
 
 We apologise for potentially causing confusion with regards to the newer
 higher sensitivity point-of-care assay. We are collecting samples to be
@@ -273,20 +258,19 @@ a "Primary Options" scheme funded by the DHB and PHO. A business model
 is being developed to formalise this with DHBs and PHOs moving beyond
 this validation study.
 
-For those identified as low risk, there will be reduced costs due to
+For those identified as low-risk, there will be reduced costs due to
 reduced patient transfers, shorter emergency department stays and less
 unnecessary investigations. There will also be intangible cost reduction
 due to reduced travel for family and time off work.
 
 For those identified as medium and high risk, there will likely be
-increased short term costs as more people will be identified
-(e.g.current usage of POC Tn may miss 30% of NSTEMI) as needing
-treatment, therefore identifying a hitherto unrecognised rural disparity
-in the management of NSTEMI. This will be offset by an important
-clinical benefit, with appropriate life and morbidity saving (cost
-reducing) treatment being instituted earlier. Those with medium risk may
-be able to stay 'closer to home' for longer periods thus reducing costs
-to the health sector and beyond.
+increased short term costs as more people will be potentially identified
+as needing treatment, therefore identifying a hitherto unrecognised
+rural disparity in the management of NSTEMI. This will be offset by an
+important clinical benefit, with appropriate life and morbidity saving
+(cost reducing) treatment being instituted earlier. Those with medium
+risk may be able to stay 'closer to home' for longer periods thus
+reducing costs to the health sector and beyond.
 
 `?adapt figure 3 from proposal?`
 
@@ -301,8 +285,7 @@ identified as death, cardiac arrest, emergency revascularisation
 procedure, cardiogenic shock, ventricular arrhythmia, ventricular
 fibrillation, high-degree artioventricular block needing intervention,
 or acute myocardial infarction. This is a standard definition and used
-in many trials assessing accelerated diagnostic
-pathways.\[\@aldousComparisonNewPointofcare2014\]
+in many trials assessing accelerated diagnostic pathways.(5)
 
 None of these conditions would be managed in primary care or at home -
 at least not beyond the initial resuscitation stage and therefore would
@@ -311,8 +294,7 @@ ANZACS-QI and National Mortality Collection.
 
 Using NHI records was shown to be effective and accurate for data
 collection in over 30000 patients in recording MACE in a trial assessing
-the performance of accelerated chest pain
-pathways.\[\@thanICareACSImprovingCare2018\]
+the performance of accelerated chest pain pathways.(11)
 
 > "Should this implementation be monitored by a data safety committee??"
 
@@ -456,3 +438,57 @@ fund the consumables (cartridges, QA testing etc.) as well as provide
 support with the IT and any ongoing 'trouble-shooting'.
 
 # References
+
+1\. Than M, Cullen L, Reid CM, Lim SH, Aldous S, Ardagh MW, et al. A 2-h
+diagnostic protocol to assess patients with chest pain symptoms in the
+Asia-Pacific region (ASPECT): A prospective observational validation
+study. 2011;377:8.
+
+2\. Flaws D, Than M, Scheuermeyer FX, Christenson J, Boychuk B,
+Greenslade JH, et al. External validation of the emergency department
+assessment of chest pain score accelerated diagnostic pathway
+(EDACS-ADP). Emergency Medicine Journal. 2016 Sep;33(9):618--25.
+
+3\. Roche T, Jennings N, Clifford S, O'connell J, Lutze M, Gosden E, et
+al. Review article: Diagnostic accuracy of risk stratification tools for
+patients with chest pain in the rural emergency department: A systematic
+review. Emergency Medicine Australasia. 2016 Oct;28(5):511--24.
+
+4\. Than M, Flaws D, Sanders S, Doust J, Glasziou P, Kline J, et al.
+Development and validation of the Emergency Department Assessment of
+Chest pain Score and 2 h accelerated diagnostic protocol: Emergency
+Department Assessment of Chest pain Score. Emergency Medicine
+Australasia. 2014 Feb;26(1):34--44.
+
+5\. Aldous S, Mark Richards A, George PM, Cullen L, Parsonage WA, Flaws
+D, et al. Comparison of new point-of-care troponin assay with high
+sensitivity troponin in diagnosing myocardial infarction. International
+Journal of Cardiology. 2014 Nov;177(1):182--6.
+
+6\. Than M, Herbert M, Flaws D, Cullen L, Hess E, Hollander JE, et al.
+What is an acceptable risk of major adverse cardiac event in chest pain
+patients soon after discharge from the Emergency Department?
+International Journal of Cardiology. 2013 Jul;166(3):752--4.
+
+7\. Stopyra JP, Miller CD, Hiestand BC, Lefebvre CW, Nicks BA, Cline DM,
+et al. Chest Pain Risk Stratification: A Comparison of the 2-Hour
+Accelerated Diagnostic Protocol (ADAPT) and the HEART Pathway. Critical
+Pathways in Cardiology. 2016 Jun;15(2):46.
+
+8\. Than MP, Pickering JW, Aldous SJ, Cullen L, Frampton CM, Peacock WF,
+et al. Effectiveness of EDACS Versus ADAPT Accelerated Diagnostic
+Pathways for Chest Pain: A Pragmatic Randomized Controlled Trial
+Embedded Within Practice. Annals of Emergency Medicine. 2016
+Jul;68(1):93--102.e1.
+
+9\. Schneider HG, Ablitt P, Taylor J. Improved sensitivity of point of
+care troponin I values using reporting to below the 99th percentile of
+normals. Clinical Biochemistry. 2013 Aug;46(12):979--82.
+
+10\. Simpson P. Recommendations for Use of Point-of-Care (POC) Troponin
+Assays in Assessment of Acute Coronary Syndrome. 2016;33.
+
+11\. Than MP, Pickering JW, Dryden JM, Lord SJ, Aitken SA, Aldous SJ, et
+al. ICare-ACS (Improving Care Processes for Patients With Suspected
+Acute Coronary Syndrome): A Study of Cross-System Implementation of a
+National Clinical Pathway. Circulation. 2018 Jan;137(4):354--63.
